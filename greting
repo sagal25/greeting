@@ -1,4 +1,16 @@
-    <meta charset="UTF-8">
+   git clone https://github.com/username/username.github.io
+   
+   cd sagal25.github.io
+
+echo "Hello World" > index.html
+
+git add --all
+
+git commit -m "Initial commit"
+
+git push -u origin main
+
+   <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>greeting2</title>
 
